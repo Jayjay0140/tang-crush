@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Ánh Ánh ơi!',
-    introDesc: ` Tgiới có bảy tỉ người
+    introDesc: `Tg có bảy tỉ người
     Đối với tui nụ cười của bà mới là đẹp nhất
     nên làm ơn 
     tui giữ mãi nụ cười ấy nhé,
