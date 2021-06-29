@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Ánh Ánh ơi!',
-    introDesc: `  Tgiới có bảy tỉ người
+    introDesc: ` Tgiới có bảy tỉ người
     Đối với tui nụ cười của bà mới là đẹp nhất
     nên làm ơn 
-    tui giữ mãi nụ cười ấy nhé,
+    tui giữ mãi nụ cười ấy nhé',
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
